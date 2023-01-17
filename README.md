@@ -3,7 +3,7 @@
 #### 🌱Skills
 - **Languages**: *TypeScript, Javascript, HTML5, CSS3*
 - **Frontend**: *React.js, React-Router, Redux, RTK, REST API*
-- **Backend**: *NodeJs*
+- **Backend**: *NodeJs, MongoDB*
 - **Tools**: *Git, SASS, Jest, Testing Library, Webpack*
 
 #### 📫 How to reach me:
