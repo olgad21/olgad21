@@ -10,5 +10,3 @@
 
 - [Linkedin](https://www.linkedin.com/in/olgadashuk/)
 - [Email](mailto:olya.dashuk@gmail.com)
-
-🔭 Check some of my pet / study projects below
